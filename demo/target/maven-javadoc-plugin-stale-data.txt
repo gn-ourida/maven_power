@@ -1,0 +1,41 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'E:/tp_bagass/demo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/tp_bagass/demo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'demo 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'E:/tp_bagass/demo/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'demo 1.0-SNAPSHOT API'
+com.example
+E:\tp_bagass\demo\src\main\java = 1714766058706
+E:\tp_bagass\demo\target\site\apidocs\allclasses-index.html = 1714813791809
+E:\tp_bagass\demo\target\site\apidocs\allpackages-index.html = 1714813791840
+E:\tp_bagass\demo\target\site\apidocs\element-list = 1714813791619
+E:\tp_bagass\demo\target\site\apidocs\help-doc.html = 1714813791965
+E:\tp_bagass\demo\target\site\apidocs\index-all.html = 1714813791902
+E:\tp_bagass\demo\target\site\apidocs\index.html = 1714813791918
+E:\tp_bagass\demo\target\site\apidocs\member-search-index.js = 1714813791855
+E:\tp_bagass\demo\target\site\apidocs\module-search-index.js = 1714813791840
+E:\tp_bagass\demo\target\site\apidocs\overview-tree.html = 1714813791762
+E:\tp_bagass\demo\target\site\apidocs\package-search-index.js = 1714813791855
+E:\tp_bagass\demo\target\site\apidocs\search.html = 1714813791918
+E:\tp_bagass\demo\target\site\apidocs\tag-search-index.js = 1714813791855
+E:\tp_bagass\demo\target\site\apidocs\type-search-index.js = 1714813791855
