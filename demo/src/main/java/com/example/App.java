@@ -12,11 +12,13 @@ public class App
                 for (int i = 0; i < exponent; i++) {
                     result /= number; 
                 }
-            } else if (exponent > 0) {
+            } 
+            if (exponent > 0) {
                 for (int i = 0; i < exponent; i++) {
                     result *= number; 
                 }
-            } else {
+            } 
+            if (exponent == 0) {
                 return result;
             }
         }      
